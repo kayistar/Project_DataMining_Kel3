@@ -1,0 +1,273 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-06-19T18:53:07.411Z,1.6659,124.6819,176.504,4.4,mb,35,99,5.442,0.93,us,us7000supe,2026-06-19T19:13:37.040Z,"27 km NW of Manado, Indonesia",earthquake,11.49,9.115,0.096,31,reviewed,us,us
+2026-06-19T18:38:23.458Z,4.9577,125.1837,35,4.9,mb,57,79,2.135,0.58,us,us7000sup8,2026-06-19T19:01:16.040Z,"58 km SSW of Sarangani, Philippines",earthquake,9.62,1.903,0.057,95,reviewed,us,us
+2026-06-19T00:31:18.915Z,-7.042,125.082,523.516,4.4,mb,33,90,2.814,0.83,us,us7000sugw,2026-06-19T01:47:09.040Z,"173 km N of Likisá, Timor Leste",earthquake,12.51,9.446,0.12,22,reviewed,us,us
+2026-06-18T16:33:58.155Z,6.5597,126.809,10,5.3,mb,43,81,1.322,1.18,us,us7000sucj,2026-06-19T00:53:51.396Z,"63 km ESE of Bobon, Philippines",earthquake,9.09,1.866,0.058,100,reviewed,us,us
+2026-06-18T16:21:09.857Z,5.333,124.9274,10.107,4.8,mb,34,126,1.843,0.99,us,us7000suke,2026-06-20T13:16:38.040Z,"54 km WSW of Balangonan, Philippines",earthquake,11.85,4.789,0.119,27,reviewed,us,us
+2026-06-18T13:39:05.592Z,-1.0657,120.2957,10,4.6,mb,36,105,3.959,0.8,us,us7000subc,2026-06-18T14:01:20.040Z,"50 km ESE of Palu, Indonesia",earthquake,8.57,1.802,0.114,26,reviewed,us,us
+2026-06-18T07:38:27.637Z,-8.9439,126.6579,19.722,4.7,mb,37,60,2.493,0.37,us,us7000su9p,2026-06-22T13:11:58.040Z,"33 km ESE of Viqueque, Timor Leste",earthquake,12.11,5.086,0.094,34,reviewed,us,us
+2026-06-18T07:26:43.224Z,-8.6588,126.4891,21.07,4.9,mb,48,70,2.449,0.48,us,us7000su9l,2026-06-18T08:12:24.040Z,"12 km E of Venilale, Timor Leste",earthquake,7.42,5.416,0.088,40,reviewed,us,us
+2026-06-18T06:57:37.092Z,5.7634,125.1953,95.287,5.3,mb,66,73,1.353,0.71,us,us7000su9f,2026-06-21T03:46:50.754Z,"1 km S of Kablalan, Philippines",earthquake,8.51,6.694,0.045,166,reviewed,us,us
+2026-06-17T22:26:25.188Z,-2.9921,130.0663,10,4.4,mb,22,100,2.181,0.32,us,us6000t7n0,2026-06-23T23:28:28.040Z,"126 km ENE of Masohi, Indonesia",earthquake,10.51,1.904,0.143,14,reviewed,us,us
+2026-06-17T21:49:27.251Z,6.6046,126.8479,49.977,4.7,mb,58,106,1.342,0.47,us,us7000su6s,2026-06-23T23:05:10.040Z,"64 km ESE of Bobon, Philippines",earthquake,9.96,5.354,0.078,50,reviewed,us,us
+2026-06-17T10:58:45.629Z,5.396,125.3008,85.125,4.5,mb,47,120,1.686,0.66,us,us7000stm3,2026-06-17T15:10:33.040Z,"18 km W of Sarangani, Philippines",earthquake,11.02,7.121,0.087,39,reviewed,us,us
+2026-06-17T08:03:29.167Z,5.3621,125.1659,80.209,4.7,mb,44,83,1.745,1.16,us,us7000stl0,2026-06-17T08:36:39.040Z,"31 km SW of Balangonan, Philippines",earthquake,9.15,7.564,0.06,83,reviewed,us,us
+2026-06-17T03:46:16.541Z,5.5839,127.2249,35,5,mb,27,120,2.203,0.66,us,us7000stka,2026-06-17T04:04:48.040Z,"144 km SE of Pondaguitan, Philippines",earthquake,8.18,1.844,0.06,89,reviewed,us,us
+2026-06-17T03:44:18.058Z,-9.6277,119.3624,35,5.1,mb,30,66,1.756,1.17,us,us7000stk6,2026-06-17T03:59:42.040Z,"25 km SSE of Tambolaka, Indonesia",earthquake,6.83,1.819,0.114,25,reviewed,us,us
+2026-06-16T21:39:21.269Z,-0.9429,120.2168,10,4.5,mb,21,115,4.071,0.8,us,us7000sv64,2026-06-22T21:53:52.040Z,"38 km E of Palu, Indonesia",earthquake,11.39,1.899,0.163,11,reviewed,us,us
+2026-06-16T21:23:21.855Z,-0.8805,120.2729,10,4.3,mb,17,111,4.139,0.5,us,us7000sv63,2026-06-22T21:28:20.040Z,"44 km E of Palu, Indonesia",earthquake,12.43,1.923,0.16,11,reviewed,us,us
+2026-06-16T20:15:32.035Z,-1.1183,120.338,10,4.8,mb,68,60,3.914,0.83,us,us7000stgy,2026-06-16T21:44:44.040Z,"55 km WNW of Poso, Indonesia",earthquake,8.78,1.848,0.081,47,reviewed,us,us
+2026-06-16T20:01:39.560Z,-1.0076,120.1067,10,4.5,mb,30,90,3.996,0.81,us,us7000stgr,2026-06-16T21:37:42.040Z,"28 km ESE of Palu, Indonesia",earthquake,9.28,1.912,0.118,21,reviewed,us,us
+2026-06-16T18:29:37.606Z,-1.233,120.3052,10,4.8,mww,83,62,3.796,0.7,us,us7000stfx,2026-06-16T19:13:58.040Z,"52 km WNW of Poso, Indonesia",earthquake,8.31,1.855,0.073,18,reviewed,us,us
+2026-06-16T17:51:17.894Z,5.6628,127.2277,10,4.5,mb,42,87,2.154,0.59,us,us7000stfq,2026-06-16T18:53:44.040Z,"139 km ESE of Pondaguitan, Philippines",earthquake,10.98,1.907,0.09,36,reviewed,us,us
+2026-06-16T11:03:52.442Z,-1.2294,120.2174,10,4.8,mb,50,115,3.788,0.72,us,us7000stdg,2026-06-16T13:18:34.040Z,"52 km SE of Palu, Indonesia",earthquake,10.24,1.881,0.083,45,reviewed,us,us
+2026-06-16T10:23:50.862Z,0.5717,126.6007,52.503,4.8,mb,48,117,6.535,0.87,us,us7000std4,2026-06-16T14:23:24.040Z,"90 km WSW of Ternate, Indonesia",earthquake,10.07,6.626,0.084,44,reviewed,us,us
+2026-06-16T09:03:43.900Z,-8.9506,126.4947,10,4.6,mb,16,87,2.339,0.5,us,us7000stbw,2026-06-16T11:47:18.040Z,"17 km SE of Viqueque, Timor Leste",earthquake,7.46,1.942,0.165,11,reviewed,us,us
+2026-06-16T08:04:46.472Z,-1.1234,120.2567,48.869,5,mb,45,60,3.897,1.09,us,us7000stbp,2026-06-16T08:23:12.040Z,"49 km ESE of Palu, Indonesia",earthquake,9.02,7.717,0.09,39,reviewed,us,us
+2026-06-16T05:44:05.058Z,5.4475,125.3137,92.946,4.7,mb,59,102,1.633,0.66,us,us7000staz,2026-06-16T06:02:48.040Z,"14 km SSW of Balangonan, Philippines",earthquake,11.19,7.556,0.053,108,reviewed,us,us
+2026-06-16T04:14:01.591Z,-1.1746,120.2257,10,5.1,mb,55,89,3.843,0.82,us,us7000sta1,2026-06-16T04:53:22.040Z,"49 km SE of Palu, Indonesia",earthquake,11.68,1.86,0.081,50,reviewed,us,us
+2026-06-16T03:38:37.352Z,-1.1219,120.2263,10,4.9,mb,29,122,3.895,1,us,us7000st9r,2026-06-16T04:21:44.294Z,"46 km ESE of Palu, Indonesia",earthquake,5.95,1.881,0.126,20,reviewed,us,us
+2026-06-16T03:30:53.802Z,-1.1104,120.2135,10,5.2,mb,22,126,3.905,0.67,us,us7000st96,2026-06-16T03:48:20.040Z,"44 km ESE of Palu, Indonesia",earthquake,15.32,1.935,0.135,18,reviewed,us,us
+2026-06-16T03:27:44.418Z,-1.1173,120.199,10,6.7,mww,120,33,3.896,1.26,us,us7000st95,2026-06-24T03:20:26.714Z,"43 km ESE of Palu, Indonesia",earthquake,8.95,1.713,0.041,56,reviewed,us,us
+2026-06-15T23:52:34.408Z,4.9013,125.1334,65,4.2,mb,19,130,2.199,0.39,us,us7000sumk,2026-06-22T02:08:31.040Z,"66 km SSW of Sarangani, Philippines",earthquake,14.8,1.979,0.137,15,reviewed,us,us
+2026-06-15T20:16:16.823Z,5.5883,125.2467,42.362,4.9,mb,57,55,1.508,0.75,us,us7000st6l,2026-06-15T20:35:48.040Z,"11 km W of Balangonan, Philippines",earthquake,9.84,5.915,0.059,91,reviewed,us,us
+2026-06-15T15:30:24.374Z,5.658,125.2618,72.266,5.5,mww,104,37,1.437,0.79,us,us7000st48,2026-06-16T15:58:28.657Z,"5 km SSW of Pangyan, Philippines",earthquake,6.1,6.22,0.066,22,reviewed,us,us
+2026-06-15T14:49:13.019Z,5.3877,125.4117,57.681,4.9,mb,74,63,1.679,0.68,us,us7000st40,2026-06-15T19:33:22.040Z,"6 km WSW of Sarangani, Philippines",earthquake,9.42,5.798,0.072,60,reviewed,us,us
+2026-06-15T09:18:38.846Z,6.193,126.7611,111.922,6.2,mww,76,25,1.462,0.86,us,us7000st1c,2026-06-22T08:39:54.064Z,"67 km ESE of Pondaguitan, Philippines",earthquake,8.51,6.894,0.041,57,reviewed,us,us
+2026-06-15T06:58:32.374Z,-8.2929,119.5941,172.565,4.5,mb,29,64,1.874,0.7,us,us7000st0n,2026-06-15T11:30:47.713Z,"34 km NNE of Komodo, Indonesia",earthquake,7.38,9.906,0.145,14,reviewed,us,us
+2026-06-14T23:26:52.663Z,-6.2817,131.1045,35,4.2,mb,10,146,3.53,0.8,us,us7000sujp,2026-06-21T21:58:26.040Z,"196 km WSW of Tual, Indonesia",earthquake,15.01,1.947,0.2,7,reviewed,us,us
+2026-06-14T22:17:32.272Z,3.9654,95.6512,48.439,4.4,mb,32,138,1.801,0.76,us,us7000sujn,2026-06-21T21:28:13.040Z,"56 km WSW of Meulaboh, Indonesia",earthquake,8.81,7.871,0.12,20,reviewed,us,us
+2026-06-14T18:30:17.225Z,-10.0182,119.0134,35,4.6,mb,26,103,5.025,0.75,us,us7000ssw7,2026-06-14T19:09:30.040Z,"69 km SSW of Tambolaka, Indonesia",earthquake,10.15,1.944,0.132,17,reviewed,us,us
+2026-06-14T14:08:52.615Z,8.6152,126.7531,35,5.2,mb,41,114,1.926,1.43,us,us7000ssub,2026-06-15T14:05:51.602Z,"53 km ENE of Hinatuan, Philippines",earthquake,10.28,1.913,0.064,80,reviewed,us,us
+2026-06-14T14:01:31.665Z,4.8162,125.3498,54.438,4.6,mb,38,104,2.25,0.97,us,us7000ssu9,2026-06-14T15:18:47.040Z,"66 km S of Sarangani, Philippines",earthquake,9.96,7.957,0.109,27,reviewed,us,us
+2026-06-14T12:48:55.358Z,-6.4629,130.9973,94.136,4.4,mb,26,100,2.213,1.07,us,us7000sstx,2026-06-16T06:11:25.040Z,"215 km WSW of Tual, Indonesia",earthquake,8.97,7.955,0.12,20,reviewed,us,us
+2026-06-14T11:55:16.038Z,5.4418,125.1683,68.469,4.5,mb,37,112,1.668,0.76,us,us7000sstv,2026-06-15T05:21:08.040Z,"25 km SW of Balangonan, Philippines",earthquake,10.52,8.587,0.08,46,reviewed,us,us
+2026-06-13T23:28:45.829Z,5.5857,125.4806,71.823,4.8,mb,74,82,1.477,0.7,us,us7000ssrp,2026-06-13T23:44:16.040Z,"6 km ESE of Butulan, Philippines",earthquake,8.69,7.703,0.074,57,reviewed,us,us
+2026-06-13T22:01:28.829Z,-6.8349,126.7759,407.795,4.2,mb,25,108,3.818,0.76,us,us7000ssr5,2026-06-13T22:26:20.040Z,"184 km N of Baukau, Timor Leste",earthquake,11.4,9.377,0.141,14,reviewed,us,us
+2026-06-13T20:51:55.063Z,5.2843,125.7394,35,5,mb,58,66,1.781,0.81,us,us7000ssqy,2026-06-13T21:07:53.040Z,"33 km ESE of Sarangani, Philippines",earthquake,9.04,1.904,0.064,78,reviewed,us,us
+2026-06-13T17:39:31.968Z,-11.4668,118.5375,10,4.3,mb,22,119,2.728,0.91,us,us7000ssq5,2026-06-13T18:03:13.040Z,"238 km SSW of Tambolaka, Indonesia",earthquake,8.67,1.914,0.161,11,reviewed,us,us
+2026-06-13T15:45:48.911Z,5.1188,125.2382,35,4.6,mb,69,100,1.967,0.88,us,us7000sspm,2026-06-13T23:13:40.193Z,"40 km SW of Sarangani, Philippines",earthquake,9.44,1.907,0.068,65,reviewed,us,us
+2026-06-13T12:05:34.332Z,1.0796,126.1267,35,5.1,mb,57,69,5.975,1.02,us,us7000ssp2,2026-06-13T12:32:35.538Z,"118 km ESE of Bitung, Indonesia",earthquake,7.78,1.879,0.05,129,reviewed,us,us
+2026-06-13T08:48:38.875Z,5.2088,125.2939,59.01,4.6,mb,40,90,1.87,0.97,us,us7000ssnf,2026-06-13T09:09:18.040Z,"28 km SW of Sarangani, Philippines",earthquake,9.04,6.896,0.073,56,reviewed,us,us
+2026-06-13T02:05:53.272Z,5.774,125.1803,69.522,5.2,mb,59,88,1.347,0.93,us,us7000ssls,2026-06-13T03:15:01.366Z,"2 km WSW of Kablalan, Philippines",earthquake,8.88,7.262,0.071,65,reviewed,us,us
+2026-06-12T19:33:49.484Z,2.963,128.1386,101.675,4.9,mb,101,108,4.81,0.55,us,us7000ssjl,2026-06-12T21:21:24.040Z,"137 km N of Tobelo, Indonesia",earthquake,9.32,7.18,0.051,122,reviewed,us,us
+2026-06-12T19:10:03.582Z,4.8121,125.3914,10,5.2,mb,133,47,2.25,0.73,us,us7000ssje,2026-06-12T21:12:11.040Z,"65 km S of Sarangani, Philippines",earthquake,8.21,1.782,0.045,174,reviewed,us,us
+2026-06-12T18:59:26.043Z,5.3761,125.4307,43.941,4.5,mb,51,130,1.689,0.71,us,us7000ssj8,2026-06-13T12:50:24.040Z,"4 km SW of Sarangani, Philippines",earthquake,12.84,6.23,0.079,47,reviewed,us,us
+2026-06-12T17:58:40.438Z,5.5979,124.8728,65.816,5,mb,66,77,1.622,0.53,us,us7000ssit,2026-06-12T18:18:49.040Z,"30 km SSW of Daliao, Philippines",earthquake,9.16,7.272,0.069,69,reviewed,us,us
+2026-06-12T12:47:39.276Z,5.6447,125.2943,54.585,4.5,mb,49,117,1.444,0.83,us,us7000ssgf,2026-06-12T13:09:08.040Z,"6 km SSE of Pangyan, Philippines",earthquake,11.59,1.943,0.074,54,reviewed,us,us
+2026-06-12T05:14:45.149Z,5.4532,124.7921,57.448,4.8,mb,45,80,1.786,0.88,us,us7000ssen,2026-06-12T05:44:14.040Z,"47 km SSW of Lumatil, Philippines",earthquake,6.87,5.685,0.062,80,reviewed,us,us
+2026-06-11T18:27:05.555Z,5.3744,126.1899,10,4.1,mb,12,179,1.79,0.64,us,us7000su1d,2026-06-24T20:25:56.040Z,"80 km E of Sarangani, Philippines",earthquake,10.94,1.966,0.214,8,reviewed,us,us
+2026-06-11T16:09:18.679Z,4.7716,125.3387,10,4.6,mb,43,102,2.295,1.2,us,us7000ss9q,2026-06-11T16:53:14.040Z,"71 km S of Sarangani, Philippines",earthquake,10.44,1.876,0.074,71,reviewed,us,us
+2026-06-11T11:46:58.234Z,4.837,125.5183,35.164,5.1,mb,63,80,2.219,1,us,us7000ss7v,2026-06-11T12:02:37.040Z,"62 km S of Sarangani, Philippines",earthquake,8.29,5.788,0.073,61,reviewed,us,us
+2026-06-11T07:33:23.077Z,4.8685,125.4495,72.962,5.4,mww,69,56,2.19,0.87,us,us7000ss6g,2026-06-12T07:59:49.021Z,"59 km S of Sarangani, Philippines",earthquake,10.22,6.896,0.086,13,reviewed,us,us
+2026-06-11T05:38:46.440Z,4.8238,125.5812,62.85,5,mb,53,102,2.231,0.89,us,us7000ss60,2026-06-11T05:55:11.040Z,"65 km SSE of Sarangani, Philippines",earthquake,11.21,7.531,0.059,90,reviewed,us,us
+2026-06-11T03:14:25.782Z,5.2678,125.5928,10,4.8,mb,38,105,1.79,1,us,us7000ss5k,2026-06-11T03:33:48.040Z,"20 km SE of Sarangani, Philippines",earthquake,10.7,1.886,0.057,94,reviewed,us,us
+2026-06-11T02:43:38.320Z,4.7679,125.396,31.967,4.6,mb,27,103,2.294,0.68,us,us7000ss5f,2026-06-11T03:16:04.040Z,"70 km S of Sarangani, Philippines",earthquake,11.43,5.418,0.085,42,reviewed,us,us
+2026-06-11T01:56:14.675Z,4.8778,125.4356,49.891,5.5,mb,76,45,2.182,0.8,us,us7000ss57,2026-06-12T02:19:46.456Z,"58 km S of Sarangani, Philippines",earthquake,8.71,7.312,0.068,76,reviewed,us,us
+2026-06-11T00:00:43.372Z,4.8951,125.3373,35,4.9,mb,45,104,2.174,0.9,us,us7000ss4y,2026-06-11T00:18:40.040Z,"57 km SSW of Sarangani, Philippines",earthquake,10.34,1.908,0.06,86,reviewed,us,us
+2026-06-10T23:26:26.731Z,4.8122,125.3097,35,5.1,mb,55,71,2.259,0.59,us,us7000ss4r,2026-06-10T23:41:02.040Z,"67 km SSW of Sarangani, Philippines",earthquake,9.2,1.898,0.085,45,reviewed,us,us
+2026-06-10T22:27:19.249Z,-7.4699,128.7518,127.866,4.3,mb,15,77,4.982,0.99,us,us7000su3u,2026-06-20T05:01:45.040Z,"225 km ENE of Lospalos, Timor Leste",earthquake,10.83,11.758,0.267,4,reviewed,us,us
+2026-06-10T21:23:21.258Z,-0.5604,132.6002,35,4.3,mb,17,166,2.369,0.96,us,us7000su53,2026-06-20T04:38:58.040Z,"33 km NE of Fef, Indonesia",earthquake,14.49,1.964,0.154,12,reviewed,us,us
+2026-06-10T21:11:59.769Z,0.715,122.563,81.135,4.2,mb,14,141,17.4,0.65,us,us7000su3t,2026-06-20T04:18:35.040Z,"58 km WNW of Gorontalo, Indonesia",earthquake,14.02,10.077,0.153,12,reviewed,us,us
+2026-06-10T16:30:55.504Z,1.8751,98.9714,125.499,4.6,mb,71,67,0.816,0.66,us,us7000ss28,2026-06-24T19:36:28.040Z,"25 km NE of Sibolga, Indonesia",earthquake,5.68,5.417,0.077,51,reviewed,us,us
+2026-06-10T14:45:31.383Z,1.1549,97.1738,30.917,4.2,mb,26,198,0.428,0.65,us,us7000su4r,2026-06-24T19:05:11.040Z,"51 km WSW of Gunungsitoli, Indonesia",earthquake,9.15,6.292,0.147,13,reviewed,us,us
+2026-06-10T11:07:56.613Z,5.4152,125.2355,36.458,5,mb,43,102,1.679,0.7,us,us7000ss0f,2026-06-10T11:28:33.040Z,"21 km SW of Balangonan, Philippines",earthquake,4.92,6.176,0.06,91,reviewed,us,us
+2026-06-10T09:13:42.703Z,5.6757,125.3874,61.705,5.1,mb,72,82,1.398,0.7,us,us7000srzt,2026-06-10T09:28:37.040Z,"7 km NW of Nuing, Philippines",earthquake,8.05,7.255,0.072,63,reviewed,us,us
+2026-06-10T01:54:24.466Z,5.697,125.1975,89.605,5,mb,52,101,1.415,1.16,us,us7000sry1,2026-06-10T03:07:07.224Z,"6 km WSW of Burias, Philippines",earthquake,9.14,6.893,0.081,50,reviewed,us,us
+2026-06-10T00:05:47.757Z,5.1118,124.9748,67.232,4.4,mb,34,130,2.036,0.49,us,us7000stqu,2026-06-20T03:13:12.040Z,"63 km WSW of Sarangani, Philippines",earthquake,13.2,7.988,0.105,26,reviewed,us,us
+2026-06-09T23:45:42.720Z,4.5986,125.4031,71.041,4.5,mb,29,105,2.461,0.68,us,us7000stzi,2026-06-20T02:57:34.040Z,"89 km S of Sarangani, Philippines",earthquake,8.96,8.212,0.119,21,reviewed,us,us
+2026-06-09T23:34:57.299Z,-7.4049,128.6529,171.707,4.6,mb,16,96,4.926,0.89,us,us7000stzh,2026-06-20T02:21:37.040Z,"220 km NE of Lospalos, Timor Leste",earthquake,11.18,6.537,0.173,10,reviewed,us,us
+2026-06-09T23:14:43.507Z,5.3722,125.4159,65.138,4.8,mb,81,84,1.694,0.76,us,us7000srxa,2026-06-20T01:23:08.040Z,"6 km WSW of Sarangani, Philippines",earthquake,8.8,5.608,0.054,107,reviewed,us,us
+2026-06-09T22:44:04.176Z,5.2181,125.276,19.18,4.3,mb,23,127,1.864,0.43,us,us7000stzg,2026-06-20T01:09:51.040Z,"29 km SW of Sarangani, Philippines",earthquake,9.74,3.918,0.129,17,reviewed,us,us
+2026-06-09T22:00:44.185Z,4.814,125.4286,69.208,4.4,mb,37,87,2.246,0.69,us,us7000srx2,2026-06-20T00:17:29.040Z,"65 km S of Sarangani, Philippines",earthquake,9.66,6.866,0.107,25,reviewed,us,us
+2026-06-09T19:23:00.045Z,4.5805,125.2388,107.247,4.3,mb,20,124,2.496,0.66,us,us7000stze,2026-06-24T18:23:10.040Z,"94 km SSW of Sarangani, Philippines",earthquake,9.21,8.696,0.153,14,reviewed,us,us
+2026-06-09T19:05:54.702Z,-7.7461,117.0132,286.973,4.3,mb,47,72,1.313,0.88,us,us7000srvb,2026-06-24T18:13:20.040Z,"89 km NW of Pototano, Indonesia",earthquake,8.77,7.458,0.104,26,reviewed,us,us
+2026-06-09T18:09:53.522Z,5.7669,125.2761,42.528,5.1,mb,108,51,1.329,0.75,us,us7000srun,2026-06-24T15:07:23.040Z,"5 km ENE of Baliton, Philippines",earthquake,9.04,5.338,0.044,164,reviewed,us,us
+2026-06-09T17:51:42.259Z,4.9264,127.6207,36.847,4.5,mb,60,84,2.942,0.52,us,us7000srul,2026-06-24T14:56:12.040Z,"225 km SE of Pondaguitan, Philippines",earthquake,9.97,6.119,0.081,44,reviewed,us,us
+2026-06-09T17:46:54.540Z,5.4049,125.2331,87.65,4.1,mb,17,116,1.689,0.82,us,us7000stzb,2026-06-24T14:46:23.040Z,"22 km SW of Balangonan, Philippines",earthquake,11.89,9.193,0.165,10,reviewed,us,us
+2026-06-09T17:40:39.175Z,4.8762,125.2761,53.716,5.1,mww,94,75,2.2,0.65,us,us7000sruf,2026-06-24T14:37:12.040Z,"61 km SSW of Sarangani, Philippines",earthquake,7.61,5.349,0.078,16,reviewed,us,us
+2026-06-09T17:21:27.842Z,4.9817,125.3384,60.247,4.3,mb,44,114,2.088,0.69,us,us7000stz9,2026-06-24T14:28:32.040Z,"48 km SSW of Sarangani, Philippines",earthquake,5.96,7.804,0.095,32,reviewed,us,us
+2026-06-09T16:49:26.926Z,5.5634,125.3482,78.518,5.1,mww,138,24,1.514,0.58,us,us7000sru0,2026-06-12T20:47:25.369Z,"1 km SSW of Balangonan, Philippines",earthquake,6.54,4.652,0.11,8,reviewed,us,us
+2026-06-09T12:55:05.541Z,5.1489,125.4513,54.666,4.7,mb,76,77,1.912,0.82,us,us7000srqm,2026-06-09T13:50:38.040Z,"28 km S of Sarangani, Philippines",earthquake,8.63,6.996,0.067,68,reviewed,us,us
+2026-06-09T10:07:29.185Z,5.6881,124.825,35,5.4,mb,80,49,1.564,0.51,us,us7000srpu,2026-06-10T10:34:31.754Z,"21 km SSW of Lumatil, Philippines",earthquake,7.5,1.895,0.06,96,reviewed,us,us
+2026-06-09T09:24:58.682Z,8.769,125.685,10,5.1,mb,68,45,1.692,0.82,us,us7000srpr,2026-06-09T09:42:01.040Z,"6 km SSW of Sibagat, Philippines",earthquake,8.92,1.868,0.049,137,reviewed,us,us
+2026-06-09T09:03:58.471Z,-10.262,118.5847,24.483,4.8,mb,48,108,1.633,0.42,us,us7000srpn,2026-06-09T10:08:20.040Z,"116 km SW of Tambolaka, Indonesia",earthquake,7.56,6.103,0.097,33,reviewed,us,us
+2026-06-09T08:15:35.103Z,5.622,125.4582,50.122,4.9,mb,43,102,1.443,0.7,us,us7000srph,2026-06-09T09:05:31.040Z,"2 km ESE of Nuing, Philippines",earthquake,10.7,6.372,0.082,46,reviewed,us,us
+2026-06-09T06:15:17.758Z,5.2857,125.3116,82.366,5.2,mb,80,102,1.792,1.1,us,us7000srp0,2026-06-09T06:34:13.040Z,"21 km SW of Sarangani, Philippines",earthquake,7.82,6.943,0.045,164,reviewed,us,us
+2026-06-09T01:18:59.671Z,5.6276,125.1815,71.728,4.6,mb,52,81,1.486,0.71,us,us7000srn9,2026-06-09T01:46:06.040Z,"12 km SW of Burias, Philippines",earthquake,6.55,7.407,0.08,47,reviewed,us,us
+2026-06-09T00:58:38.839Z,4.6692,125.2846,60.761,4.4,mb,32,124,2.403,0.73,us,us7000stxz,2026-06-19T23:08:20.040Z,"83 km SSW of Sarangani, Philippines",earthquake,13.99,7.662,0.115,22,reviewed,us,us
+2026-06-09T00:49:11.032Z,4.8837,125.6452,70.102,4.4,mb,30,125,2.173,0.78,us,us7000stxy,2026-06-19T22:08:46.040Z,"60 km SSE of Sarangani, Philippines",earthquake,12.79,5.519,0.117,22,reviewed,us,us
+2026-06-08T23:38:24.002Z,5.5171,125.4651,54.956,5,mb,65,54,1.547,0.61,us,us7000srmq,2026-06-19T21:58:53.040Z,"8 km SE of Bukid, Philippines",earthquake,8.22,5.756,0.057,97,reviewed,us,us
+2026-06-08T23:38:09.994Z,5.411,125.2188,65.222,4.3,mb,45,101,1.686,0.56,us,us7000su1v,2026-06-19T21:53:05.040Z,"23 km SW of Balangonan, Philippines",earthquake,9.16,7.588,0.093,33,reviewed,us,us
+2026-06-08T23:21:52.728Z,5.5905,125.2037,57.91,4.7,mb,55,122,1.516,0.74,us,us7000srml,2026-06-19T21:40:47.040Z,"14 km SW of Pangyan, Philippines",earthquake,9.93,7.54,0.086,41,reviewed,us,us
+2026-06-08T23:14:48.808Z,5.0862,125.5642,65,4.4,mb,31,110,1.97,1.06,us,us7000stxw,2026-06-19T21:22:22.040Z,"36 km SSE of Sarangani, Philippines",earthquake,10.98,1.964,0.12,20,reviewed,us,us
+2026-06-08T22:38:04.410Z,5.4335,125.2623,71.618,4.9,mb,59,110,1.656,0.61,us,us7000srm7,2026-06-19T20:49:00.040Z,"18 km SSW of Balangonan, Philippines",earthquake,11.08,1.628,0.052,116,reviewed,us,us
+2026-06-08T22:30:50.660Z,5.328,125.1356,65,4.3,mb,27,133,1.785,0.53,us,us7000stxs,2026-06-18T23:55:17.040Z,"36 km SW of Balangonan, Philippines",earthquake,13.91,1.97,0.116,21,reviewed,us,us
+2026-06-08T22:20:45.778Z,5.5041,125.4302,146.624,4.3,mb,35,133,1.562,1.75,us,us7000stxt,2026-06-18T23:25:23.040Z,"7 km SSE of Bukid, Philippines",earthquake,15.75,7.567,0.102,27,reviewed,us,us
+2026-06-08T22:17:12.343Z,5.0615,125.1812,73.5,4.5,mb,42,101,2.034,0.66,us,us7000stxn,2026-06-18T23:15:59.040Z,"49 km SW of Sarangani, Philippines",earthquake,7.48,7.484,0.097,31,reviewed,us,us
+2026-06-08T21:58:56.502Z,5.6029,124.7675,71.209,4.4,mb,35,93,1.665,0.69,us,us7000stxm,2026-06-18T22:55:44.040Z,"32 km SSW of Katubao, Philippines",earthquake,10.74,8.003,0.102,28,reviewed,us,us
+2026-06-08T20:03:02.800Z,4.7631,125.4177,10,4.4,mb,40,108,2.297,0.46,us,us7000stxf,2026-06-19T15:56:06.040Z,"70 km S of Sarangani, Philippines",earthquake,11.07,1.883,0.1,30,reviewed,us,us
+2026-06-08T19:24:44.660Z,5.0289,124.7555,35,4.8,mb,49,77,2.186,0.63,us,us7000srkw,2026-06-21T13:35:25.040Z,"88 km WSW of Sarangani, Philippines",earthquake,9.42,1.912,0.073,58,reviewed,us,us
+2026-06-08T19:19:15.627Z,5.1497,125.248,35,4.6,mb,41,70,1.936,0.8,us,us7000su0m,2026-06-19T16:50:13.040Z,"36 km SW of Sarangani, Philippines",earthquake,6.63,1.887,0.095,34,reviewed,us,us
+2026-06-08T19:18:48.445Z,5.004,125.1867,10,4.4,mb,37,135,2.089,0.6,us,us7000stxc,2026-06-19T15:37:56.040Z,"53 km SW of Sarangani, Philippines",earthquake,11.22,1.904,0.1,29,reviewed,us,us
+2026-06-08T18:29:00.051Z,4.9172,125.4299,46.231,5.1,mb,70,72,2.143,0.76,us,us7000srk7,2026-06-21T13:15:23.040Z,"53 km S of Sarangani, Philippines",earthquake,9.53,5.773,0.048,144,reviewed,us,us
+2026-06-08T17:41:31.735Z,4.5518,125.3882,23.455,4.7,mb,73,89,2.508,0.64,us,us7000srjt,2026-06-21T13:06:01.376Z,"94 km S of Sarangani, Philippines",earthquake,10.02,4.943,0.065,72,reviewed,us,us
+2026-06-08T15:14:22.217Z,5.5968,124.7156,10,4.3,mb,13,127,1.696,0.45,us,us7000stqt,2026-06-21T20:09:07.040Z,"34 km SSW of Katubao, Philippines",earthquake,11.79,1.924,0.201,8,reviewed,us,us
+2026-06-08T15:09:14.624Z,5.6978,124.892,63.955,4.3,mb,29,74,1.524,1.15,us,us7000stwz,2026-06-21T19:42:57.040Z,"19 km SSW of Daliao, Philippines",earthquake,7.52,7.646,0.129,20,reviewed,us,us
+2026-06-08T15:03:16.690Z,5.0848,125.0741,65.195,4.2,mb,28,117,2.035,0.78,us,us7000stx1,2026-06-21T19:36:44.040Z,"55 km SW of Sarangani, Philippines",earthquake,13.05,7.849,0.118,21,reviewed,us,us
+2026-06-08T15:01:52.254Z,5.6673,124.9052,68.991,4.2,mb,14,132,1.546,0.81,us,us7000stwx,2026-06-21T19:28:19.040Z,"22 km SSW of Daliao, Philippines",earthquake,8.86,8.981,0.187,9,reviewed,us,us
+2026-06-08T14:53:05.204Z,5.7353,124.8562,54.706,5.2,mb,107,41,1.508,0.57,us,us7000srh8,2026-06-23T20:14:54.040Z,"15 km SSW of Lumatil, Philippines",earthquake,8.28,5.512,0.043,183,reviewed,us,us
+2026-06-08T14:37:38.449Z,4.8219,125.3941,78.15,4.8,mb,52,87,2.24,0.64,us,us7000srh6,2026-06-23T20:10:00.040Z,"64 km S of Sarangani, Philippines",earthquake,7.06,7.118,0.064,79,reviewed,us,us
+2026-06-08T14:22:11.474Z,4.7032,125.3476,81.48,4.5,mb,19,130,2.362,0.88,us,us7000stww,2026-06-23T19:56:56.040Z,"78 km S of Sarangani, Philippines",earthquake,13.33,9.406,0.171,10,reviewed,us,us
+2026-06-08T14:04:33.694Z,4.9484,125.4618,73.751,4.2,mb,39,103,2.111,0.85,us,us7000stwv,2026-06-23T19:40:35.040Z,"50 km S of Sarangani, Philippines",earthquake,11.84,5.129,0.098,29,reviewed,us,us
+2026-06-08T13:53:12.478Z,4.7943,125.5192,48.661,4.3,mb,34,109,2.261,0.87,us,us7000stwt,2026-06-23T19:28:55.040Z,"67 km S of Sarangani, Philippines",earthquake,12.88,6.744,0.116,22,reviewed,us,us
+2026-06-08T13:46:24.061Z,5.064,124.9595,77.88,4.2,mb,14,136,2.086,0.72,us,us7000stwu,2026-06-23T19:36:31.040Z,"67 km SW of Sarangani, Philippines",earthquake,17.48,11.24,0.176,10,reviewed,us,us
+2026-06-08T13:37:57.211Z,5.006,125.2001,44.66,5.2,mb,101,43,2.084,0.72,us,us7000srgq,2026-06-23T19:34:35.040Z,"52 km SSW of Sarangani, Philippines",earthquake,8.27,5.136,0.048,146,reviewed,us,us
+2026-06-08T13:35:42.863Z,4.6829,125.2772,65.037,4.5,mb,36,187,2.39,0.77,us,us7000stwp,2026-06-23T16:46:46.040Z,"82 km SSW of Sarangani, Philippines",earthquake,15.34,10.949,0.099,30,reviewed,us,us
+2026-06-08T13:05:36.828Z,4.7517,125.4204,75.272,4.5,mb,44,133,2.308,0.9,us,us7000srgk,2026-06-23T19:31:54.040Z,"72 km S of Sarangani, Philippines",earthquake,14.65,7.162,0.093,34,reviewed,us,us
+2026-06-08T12:44:22.315Z,5.3961,125.2013,85.651,4.4,mb,65,120,1.704,0.66,us,us7000srgh,2026-06-08T17:21:13.040Z,"25 km SW of Balangonan, Philippines",earthquake,12.78,8.666,0.069,61,reviewed,us,us
+2026-06-08T11:22:32.657Z,5.532,125.2525,81.095,5.5,mb,84,33,1.562,0.8,us,us7000srfx,2026-06-18T16:52:47.503Z,"12 km WSW of Balangonan, Philippines",earthquake,9.18,6.83,0.043,191,reviewed,us,us
+2026-06-08T10:04:07.945Z,5.3023,125.2036,72.975,4.6,mb,34,109,1.795,1.1,us,us7000srfd,2026-06-08T11:53:50.040Z,"30 km WSW of Sarangani, Philippines",earthquake,10.55,7.811,0.095,33,reviewed,us,us
+2026-06-08T09:28:33.259Z,4.7279,125.5369,64.022,5.1,mb,33,72,2.327,1.18,us,us7000srfa,2026-06-08T09:50:11.040Z,"75 km S of Sarangani, Philippines",earthquake,10.21,8.934,0.067,73,reviewed,us,us
+2026-06-08T09:17:22.900Z,4.9191,125.3094,35,5.6,mb,69,73,10.425,0.85,us,us7000srf8,2026-06-09T10:09:32.156Z,"56 km SSW of Sarangani, Philippines",earthquake,8.57,1.865,0.047,157,reviewed,us,us
+2026-06-08T08:45:55.453Z,5.1589,125.1934,62.254,4.6,mb,63,73,1.937,0.73,us,us7000srf6,2026-06-08T13:43:35.040Z,"40 km SW of Sarangani, Philippines",earthquake,9.92,6.994,0.072,57,reviewed,us,us
+2026-06-08T08:13:44.554Z,5.3935,125.1601,69.126,5.3,mb,66,75,1.716,0.95,us,us7000srf1,2026-06-08T08:30:49.040Z,"29 km SW of Balangonan, Philippines",earthquake,8.6,6.825,0.049,142,reviewed,us,us
+2026-06-08T07:15:38.756Z,4.8317,124.5997,35,4.6,mb,46,109,2.427,0.49,us,us7000sret,2026-06-08T09:13:19.040Z,"114 km WSW of Sarangani, Philippines",earthquake,11.35,1.942,0.09,37,reviewed,us,us
+2026-06-08T07:00:06.687Z,5.4985,125.0994,53.484,5,mb,86,81,1.632,0.35,us,us7000srem,2026-06-08T07:38:30.040Z,"29 km WSW of Balangonan, Philippines",earthquake,4.51,7.126,0.05,129,reviewed,us,us
+2026-06-08T06:39:22.094Z,-0.7906,100.456,93.13,4.9,mb,94,46,3.553,0.53,us,us7000srei,2026-06-08T07:20:45.040Z,"20 km NNE of Padang, Indonesia",earthquake,7.26,6.066,0.063,78,reviewed,us,us
+2026-06-08T06:28:01.440Z,5.3316,125.6965,70.307,4.5,mb,53,86,1.731,0.58,us,us7000sref,2026-06-08T08:48:25.040Z,"27 km ESE of Sarangani, Philippines",earthquake,9.69,7.812,0.083,43,reviewed,us,us
+2026-06-08T06:21:56.592Z,4.8984,125.4434,57.891,5.3,mb,72,71,2.161,0.59,us,us7000srec,2026-06-08T06:40:39.040Z,"55 km S of Sarangani, Philippines",earthquake,8.36,6.952,0.048,147,reviewed,us,us
+2026-06-08T06:08:03.207Z,5.3206,125.3375,35,4.7,mb,62,81,1.754,0.61,us,us7000sred,2026-06-08T08:10:35.040Z,"16 km WSW of Sarangani, Philippines",earthquake,8.89,1.905,0.066,69,reviewed,us,us
+2026-06-08T05:58:57.853Z,5.0116,125.1228,35,4.9,mb,49,90,2.094,0.5,us,us7000sre8,2026-06-08T07:01:03.040Z,"57 km SW of Sarangani, Philippines",earthquake,9.73,1.91,0.07,63,reviewed,us,us
+2026-06-08T05:38:19.218Z,5.3681,125.8947,63.869,4.7,mb,80,82,10.394,0.44,us,us7000sre5,2026-06-08T06:26:05.040Z,"47 km E of Sarangani, Philippines",earthquake,10.68,7.324,0.061,80,reviewed,us,us
+2026-06-08T05:36:15.273Z,5.0057,125.0476,35,4.6,mb,44,103,10.635,0.69,us,us7000sre4,2026-06-08T06:03:45.040Z,"63 km SW of Sarangani, Philippines",earthquake,9.96,1.915,0.094,34,reviewed,us,us
+2026-06-08T05:12:04.262Z,5.3774,125.4566,51.144,5.5,mb,81,41,10.674,0.98,us,us7000sre1,2026-06-09T05:42:17.488Z,"2 km SSW of Sarangani, Philippines",earthquake,9.49,5.866,0.043,191,reviewed,us,us
+2026-06-08T04:46:42.739Z,4.9789,125.215,35,5.7,mb,107,35,10.532,0.88,us,us7000srds,2026-06-09T05:11:47.231Z,"54 km SSW of Sarangani, Philippines",earthquake,9.13,1.895,0.04,223,reviewed,us,us
+2026-06-08T04:44:32.115Z,4.787,125.3513,51.359,5.3,mb,93,35,10.299,1.04,us,us7000srdu,2026-06-08T05:06:32.040Z,"69 km S of Sarangani, Philippines",earthquake,9.84,5.342,0.043,176,reviewed,us,us
+2026-06-08T04:42:59.900Z,5.1926,125.1257,35,5,mb,74,77,10.749,0.52,us,us7000srdr,2026-06-08T05:30:26.040Z,"44 km WSW of Sarangani, Philippines",earthquake,10.18,1.864,0.06,89,reviewed,us,us
+2026-06-08T03:52:17.358Z,5.2058,124.9834,35,4.4,mb,26,133,10.854,0.65,us,us7000srdh,2026-06-08T04:13:37.040Z,"57 km WSW of Sarangani, Philippines",earthquake,11.08,1.749,0.118,21,reviewed,us,us
+2026-06-08T03:26:52.885Z,5.3553,125.1956,35,4.9,mb,60,87,11.647,0.62,us,us7000srdc,2026-06-08T03:45:12.040Z,"29 km SW of Balangonan, Philippines",earthquake,11.02,1.918,0.062,82,reviewed,us,us
+2026-06-08T03:06:21.765Z,4.8722,125.3545,66.948,4.7,mb,40,86,10.36,1.26,us,us7000srd9,2026-06-08T03:31:48.040Z,"59 km SSW of Sarangani, Philippines",earthquake,11.77,8.354,0.076,52,reviewed,us,us
+2026-06-08T02:38:08.415Z,4.9916,124.9784,60.192,4.6,mb,29,129,17.389,0.77,us,us7000srd6,2026-06-08T03:00:48.040Z,"70 km SW of Sarangani, Philippines",earthquake,7.7,7.444,0.103,30,reviewed,us,us
+2026-06-08T02:34:50.830Z,5.6431,125.2231,70.007,4.4,mb,32,125,1.461,0.76,us,us7000stuv,2026-06-23T05:24:10.040Z,"8 km SSW of Burias, Philippines",earthquake,11.29,7.588,0.114,25,reviewed,us,us
+2026-06-08T02:24:37.504Z,5.8916,126.4862,98.868,4.4,mb,30,111,1.477,1.17,us,us7000stuw,2026-06-23T05:13:06.040Z,"62 km SSE of Pondaguitan, Philippines",earthquake,9.7,7.707,0.117,24,reviewed,us,us
+2026-06-08T02:12:29.375Z,5.7459,125.2727,59.87,4.8,mb,49,77,11.074,0.72,us,us7000srd3,2026-06-08T02:36:46.040Z,"3 km NE of Burias, Philippines",earthquake,11.33,7.325,0.062,84,reviewed,us,us
+2026-06-08T02:11:34.820Z,5.1536,125.4979,35,4.4,mb,36,107,10.478,0.68,us,us7000stut,2026-06-23T04:32:27.040Z,"27 km S of Sarangani, Philippines",earthquake,13.34,1.912,0.106,27,reviewed,us,us
+2026-06-08T02:07:23.460Z,5.2084,124.9634,67.076,4.3,mb,36,136,1.948,0.53,us,us7000stur,2026-06-23T03:59:47.040Z,"59 km SW of Balangonan, Philippines",earthquake,12.75,7.913,0.111,25,reviewed,us,us
+2026-06-08T02:04:33.811Z,5.32,125.1289,35,4.3,mb,19,141,1.795,0.32,us,us7000su27,2026-06-23T03:44:56.040Z,"37 km SW of Balangonan, Philippines",earthquake,14.01,1.244,0.16,11,reviewed,us,us
+2026-06-08T02:03:38.215Z,5.2797,124.9842,35,4.3,mb,27,134,1.874,0.57,us,us7000stus,2026-06-23T02:52:14.040Z,"52 km SW of Balangonan, Philippines",earthquake,14.03,1.931,0.119,20,reviewed,us,us
+2026-06-08T01:57:26.629Z,5.6089,125.1962,65.505,4.4,mb,32,109,1.5,0.39,us,us7000stup,2026-06-23T02:38:47.040Z,"13 km SSW of Burias, Philippines",earthquake,9.31,6.496,0.117,22,reviewed,us,us
+2026-06-08T01:46:25.163Z,5.1996,125.6122,59.832,4.6,mb,44,97,10.44,0.84,us,us7000srcz,2026-06-08T02:22:45.040Z,"27 km SE of Sarangani, Philippines",earthquake,8.25,6.648,0.091,38,reviewed,us,us
+2026-06-08T01:41:30.646Z,5.5642,125.3121,35,4.6,mb,41,106,1.519,1.14,us,us7000stun,2026-06-23T02:21:22.040Z,"4 km WSW of Balangonan, Philippines",earthquake,9.65,1.919,0.084,43,reviewed,us,us
+2026-06-08T01:40:39.556Z,5.2678,125.0497,35,4.4,mb,32,123,1.866,0.73,us,us7000stuq,2026-06-23T00:54:50.040Z,"47 km SW of Balangonan, Philippines",earthquake,12.41,1.931,0.11,24,reviewed,us,us
+2026-06-08T01:38:56.867Z,5.4789,125.26,35,4.4,mb,33,124,1.612,0.41,us,us7000stum,2026-06-23T00:39:00.040Z,"14 km SW of Balangonan, Philippines",earthquake,10.52,1.187,0.117,21,reviewed,us,us
+2026-06-08T01:32:49.679Z,4.9321,125.3217,35,4.6,mb,24,130,10.426,0.98,us,us7000stuk,2026-06-21T23:36:48.040Z,"54 km SSW of Sarangani, Philippines",earthquake,15.29,1.934,0.125,21,reviewed,us,us
+2026-06-08T01:27:46.165Z,5.1114,125.3322,35,4.6,mb,31,122,1.961,1.35,us,us7000stul,2026-06-21T23:04:34.040Z,"35 km SSW of Sarangani, Philippines",earthquake,14.18,1.93,0.116,23,reviewed,us,us
+2026-06-08T01:11:00.901Z,4.8254,125.1805,100.266,5.1,mb,36,76,18.522,1.3,us,us7000srck,2026-06-21T21:28:35.040Z,"71 km SSW of Sarangani, Philippines",earthquake,12.18,6.438,0.079,52,reviewed,us,us
+2026-06-08T00:58:21.598Z,5.3153,125.7137,93.343,5.8,mb,57,50,1.748,0.92,us,us7000srci,2026-06-18T05:21:07.562Z,"29 km ESE of Sarangani, Philippines",earthquake,10.08,6.593,0.088,47,reviewed,us,us
+2026-06-08T00:55:12.546Z,5.4747,125.2173,75.065,6.5,mb,144,23,1.625,0.64,us,us7000srcg,2026-06-18T05:07:48.031Z,"18 km SW of Balangonan, Philippines",earthquake,7.76,4.683,0.034,342,reviewed,us,us
+2026-06-08T00:53:03.467Z,5.1977,125.152,36.938,5,mb,77,58,1.908,0.63,us,us7000srcf,2026-06-18T04:49:17.040Z,"41 km WSW of Sarangani, Philippines",earthquake,8.95,5.088,0.05,130,reviewed,us,us
+2026-06-08T00:52:33.400Z,4.8963,125.3716,102.57,4.4,mb,53,107,2.169,0.72,us,us7000stud,2026-06-18T04:27:19.040Z,"56 km S of Sarangani, Philippines",earthquake,12.32,7.575,0.084,41,reviewed,us,us
+2026-06-08T00:48:42.117Z,5.5392,125.2658,58.454,4.9,mb,50,86,1.552,0.8,us,us7000srcd,2026-06-18T04:17:29.040Z,"10 km WSW of Balangonan, Philippines",earthquake,4.28,6.167,0.075,56,reviewed,us,us
+2026-06-08T00:44:34.804Z,5.5859,124.2826,35,4.5,mb,33,136,1.958,0.63,us,us7000su0i,2026-06-18T04:14:37.040Z,"55 km SSW of Maitum, Philippines",earthquake,11.53,1.929,0.108,25,reviewed,us,us
+2026-06-08T00:42:28.205Z,5.6834,125.2486,54.829,4.8,mb,57,82,1.416,0.64,us,us7000srcc,2026-06-18T04:09:07.040Z,"3 km S of Burias, Philippines",earthquake,8.92,6.182,0.082,46,reviewed,us,us
+2026-06-08T00:35:01.442Z,5.6073,125.4866,35.778,4.5,mb,25,133,1.456,0.82,us,us7000su0g,2026-06-18T03:54:50.040Z,"6 km E of Butulan, Philippines",earthquake,11.19,5.845,0.121,20,reviewed,us,us
+2026-06-08T00:32:20.067Z,5.6535,124.4808,58.125,4.4,mb,24,98,1.781,0.74,us,us7000su0s,2026-06-18T03:34:44.040Z,"40 km SSW of Tambilil, Philippines",earthquake,10.35,8.395,0.139,15,reviewed,us,us
+2026-06-08T00:28:30.844Z,3.0983,127.0104,35,4.6,mb,46,79,14.779,0.54,us,us7000stua,2026-06-18T03:12:41.040Z,"187 km NW of Tobelo, Indonesia",earthquake,4.6,1.911,0.095,33,reviewed,us,us
+2026-06-08T00:26:54.723Z,3.0825,126.9334,34.165,4.7,mb,51,79,14.715,0.82,us,us7000stub,2026-06-18T03:17:12.040Z,"191 km NW of Tobelo, Indonesia",earthquake,11.65,5.602,0.095,34,reviewed,us,us
+2026-06-08T00:23:13.666Z,5.4887,125.067,81.022,4.4,mb,23,142,1.651,0.96,us,us7000stuc,2026-06-18T02:43:39.040Z,"32 km SW of Burias, Philippines",earthquake,15.29,8.968,0.134,16,reviewed,us,us
+2026-06-08T00:18:20.923Z,5.3957,125.3265,66.031,5.2,mb,56,77,1.682,0.6,us,us7000stu4,2026-06-18T02:29:12.040Z,"15 km W of Sarangani, Philippines",earthquake,9.16,6.244,0.096,36,reviewed,us,us
+2026-06-08T00:12:27.344Z,5.404,125.3069,81.072,4.7,mb,47,108,1.677,0.49,us,us7000su0l,2026-06-18T01:35:01.040Z,"17 km W of Sarangani, Philippines",earthquake,11.89,3.93,0.095,34,reviewed,us,us
+2026-06-08T00:11:10.100Z,5.479,125.1828,68.996,5.2,mb,55,89,1.629,0.69,us,us7000stu5,2026-06-18T01:18:24.040Z,"21 km WSW of Balangonan, Philippines",earthquake,9.36,5.702,0.125,21,reviewed,us,us
+2026-06-08T00:07:44.175Z,5.4799,124.5898,65.33,4.8,mb,54,100,1.86,0.56,us,us7000stu6,2026-06-18T03:40:15.040Z,"52 km SSW of Katubao, Philippines",earthquake,11.82,6.723,0.107,27,reviewed,us,us
+2026-06-07T23:51:48.830Z,5.651,125.4049,68.217,5.7,mb,88,101,1.42,0.48,us,us7000stu3,2026-06-18T23:59:02.237Z,"3 km WNW of Nuing, Philippines",earthquake,9.6,5.725,0.084,50,reviewed,us,us
+2026-06-07T23:49:14.463Z,5.6499,125.2446,42.386,6,mb,99,48,1.449,0.84,us,us7000src3,2026-06-22T08:43:40.175Z,"6 km SW of Pangyan, Philippines",earthquake,9.12,4.785,0.066,85,reviewed,us,us
+2026-06-07T23:48:07.839Z,5.5129,125.3703,48.482,6.1,mb,78,45,1.56,0.9,us,us7000srbe,2026-06-22T08:46:56.676Z,"6 km SSE of Balangonan, Philippines",earthquake,9.52,4.921,0.051,143,reviewed,us,us
+2026-06-07T23:37:41.981Z,5.6171,125.0472,57.226,7.8,mww,151,21,1.537,0.53,us,us7000srb1,2026-06-25T03:47:03.907Z,"24 km SW of Kablalan, Philippines",earthquake,8.99,4.718,0.028,125,reviewed,us,us
+2026-06-07T13:31:46.441Z,-5.1267,101.5175,10,4.7,mb,44,144,1.623,0.87,us,us7000sr8g,2026-06-21T15:09:21.040Z,"168 km SSW of Bengkulu, Indonesia",earthquake,8.96,1.906,0.106,28,reviewed,us,us
+2026-06-07T13:06:11.012Z,2.6277,96.1475,26.48,4.6,mb,35,147,1.94,0.61,us,us7000sr8c,2026-06-21T14:39:06.040Z,"30 km WNW of Sinabang, Indonesia",earthquake,10.35,6.106,0.105,27,reviewed,us,us
+2026-06-07T05:32:24.584Z,4.7467,96.9718,10,4.3,mb,16,172,0.48,1,us,us7000stt4,2026-06-24T13:26:31.040Z,"51 km SSW of Lhokseumawe, Indonesia",earthquake,7.47,1.921,0.161,11,reviewed,us,us
+2026-06-07T02:53:05.880Z,-7.4742,128.439,161.221,5.1,mww,61,34,3.275,1.15,us,us7000sr64,2026-06-07T03:09:57.040Z,"196 km NE of Lospalos, Timor Leste",earthquake,4.31,7.5,0.089,12,reviewed,us,us
+2026-06-06T22:38:35.972Z,-8.6429,126.5283,9.692,5.2,mb,55,38,2.491,0.88,us,us7000sr5i,2026-06-21T03:19:54.981Z,"16 km E of Venilale, Timor Leste",earthquake,7.68,3.853,0.076,56,reviewed,us,us
+2026-06-06T18:56:47.352Z,-0.1554,125.1911,35,5.2,mww,96,57,6.402,0.86,us,us7000sr4k,2026-06-20T14:56:21.040Z,"107 km SE of Modisi, Indonesia",earthquake,7.96,1.853,0.071,19,reviewed,us,us
+2026-06-06T12:38:50.726Z,4.79,126.0772,101.818,4.2,mb,30,115,2.318,0.69,us,us7000sts6,2026-06-24T12:52:14.040Z,"96 km SE of Sarangani, Philippines",earthquake,10.78,7.077,0.104,26,reviewed,us,us
+2026-06-06T04:27:08.267Z,-4.3252,142.0826,93.01,4.8,mb,15,104,2.265,0.9,us,us7000sr20,2026-06-06T04:45:55.040Z,"82 km W of Ambunti, Papua New Guinea",earthquake,11.72,8.422,0.149,14,reviewed,us,us
+2026-06-05T23:19:15.180Z,5.4504,125.8681,90.648,4.3,mb,25,111,1.634,0.69,us,us7000strx,2026-06-20T21:18:13.040Z,"45 km E of Sarangani, Philippines",earthquake,12.08,8.508,0.129,17,reviewed,us,us
+2026-06-05T15:57:06.583Z,-7.6703,127.219,170.17,5.3,mww,111,18,3.578,0.86,us,us7000sqvk,2026-06-20T19:16:59.040Z,"97 km NNE of Lospalos, Timor Leste",earthquake,8.2,4.915,0.068,21,reviewed,us,us
+2026-06-05T14:47:21.456Z,5.3905,125.9273,113.709,4.5,mb,41,82,1.704,1.09,us,us7000sqvc,2026-06-20T18:37:09.040Z,"51 km E of Sarangani, Philippines",earthquake,10.61,6.447,0.099,31,reviewed,us,us
+2026-06-05T14:38:13.790Z,-6.3315,105.1514,64.37,4.4,mb,31,115,2.723,0.88,us,us7000sqv3,2026-06-20T18:33:34.354Z,"75 km W of Labuan, Indonesia",earthquake,10.87,8.333,0.117,22,reviewed,us,us
+2026-06-04T23:28:33.768Z,-0.1157,122.9863,133.685,5.2,mww,103,19,5.84,0.84,us,us7000sqrh,2026-06-20T00:07:23.040Z,"72 km S of Gorontalo, Indonesia",earthquake,9.73,4.739,0.098,10,reviewed,us,us
+2026-06-04T22:34:17.698Z,-7.2841,129.4831,121.362,4.4,mb,25,82,5.137,0.69,us,us7000sqr7,2026-06-19T23:48:38.040Z,"Kepulauan Babar, Indonesia",earthquake,9.65,8.647,0.131,17,reviewed,us,us
+2026-06-04T19:24:48.723Z,5.8671,125.9866,142.01,4.3,mb,51,88,1.261,0.69,us,us7000sqph,2026-06-22T18:43:10.040Z,"36 km ESE of Mangili, Philippines",earthquake,11.46,6.793,0.084,40,reviewed,us,us
+2026-06-04T17:34:21.979Z,0.0831,123.9724,92.181,4.9,mb,86,55,6.588,0.68,us,us7000sqnh,2026-06-22T15:28:31.040Z,"65 km SW of Modisi, Indonesia",earthquake,7.62,5.085,0.074,58,reviewed,us,us
+2026-06-04T05:57:01.347Z,1.9364,128.2853,241.443,4.3,mb,34,112,5.768,0.68,us,us7000sqhk,2026-06-10T08:04:49.040Z,"38 km NE of Tobelo, Indonesia",earthquake,10.29,6.572,0.106,25,reviewed,us,us
+2026-06-04T04:37:32.294Z,-0.8569,133.2658,37.536,4.5,mb,16,136,2.287,1.14,us,us7000sqh1,2026-06-04T04:54:30.040Z,"88 km W of Manokwari, Indonesia",earthquake,8.65,7.561,0.144,14,reviewed,us,us
+2026-06-04T02:13:47.098Z,-6.1061,129.8944,168.621,4.3,mb,13,84,1.573,0.43,us,us7000srrs,2026-06-24T04:27:37.040Z,"Banda Sea",earthquake,11.71,9.868,0.2,7,reviewed,us,us
+2026-06-03T17:14:02.512Z,-7.6432,128.3861,152.523,4.1,mb,6,127,4.581,0.2,us,us7000srti,2026-06-24T21:08:48.040Z,"181 km ENE of Lospalos, Timor Leste",earthquake,12.16,17.069,0.302,4,reviewed,us,us
+2026-06-03T16:55:34.855Z,-8.011,120.1526,175.474,4.9,mww,108,40,2.487,0.8,us,us7000sqcf,2026-06-21T17:03:06.263Z,"61 km NNE of Labuan Bajo, Indonesia",earthquake,7.88,5.203,0.083,14,reviewed,us,us
+2026-06-02T04:54:22.057Z,-6.5211,130.2206,165.209,4.2,mb,11,122,4.109,0.6,us,us7000srib,2026-06-24T03:16:29.040Z,"297 km WSW of Tual, Indonesia",earthquake,8.19,12.702,0.215,6,reviewed,us,us
+2026-06-01T23:01:16.792Z,-2.0683,138.8508,27.275,5.4,mb,101,19,1.903,0.65,us,us7000spya,2026-06-08T03:20:41.573Z,"206 km WNW of Abepura, Indonesia",earthquake,7.18,3.839,0.046,162,reviewed,us,us
+2026-06-01T22:37:47.787Z,0.6994,126.8785,35,4.1,mb,12,189,9.104,0.77,us,us7000sqyr,2026-06-08T02:57:20.040Z,"57 km W of Ternate, Indonesia",earthquake,14.82,1.964,0.197,8,reviewed,us,us
+2026-06-01T22:02:46.692Z,-7.0065,128.8875,185.953,4.2,mb,46,47,2.667,0.89,us,us7000spxi,2026-06-08T02:30:55.040Z,"267 km NE of Lospalos, Timor Leste",earthquake,8.8,7.984,0.106,25,reviewed,us,us
+2026-06-01T10:57:15.279Z,6.9146,126.2534,66.238,4.6,mb,36,117,0.687,0.64,us,us7000sptk,2026-06-20T08:46:41.040Z,"6 km SE of Mati, Philippines",earthquake,8.68,4.521,0.109,25,reviewed,us,us
+2026-06-01T04:42:22.467Z,6.7345,123.7281,10.115,4.3,mb,13,96,1.868,0.23,us,us7000sqy5,2026-06-24T01:51:05.040Z,"33 km WSW of Gadung, Philippines",earthquake,10.88,5.325,0.201,7,reviewed,us,us
+2026-06-01T00:36:36.507Z,1.7257,126.5898,68.592,4.2,mb,14,152,9.565,0.37,us,us7000sqy1,2026-06-25T03:19:10.040Z,"136 km NW of Ternate, Indonesia",earthquake,15.42,11.121,0.186,9,reviewed,us,us
+2026-05-31T21:28:22.882Z,-2.273,140.2665,23.096,4.2,mb,16,93,0.498,0.47,us,us7000sqx4,2026-06-24T20:52:07.040Z,"54 km NW of Abepura, Indonesia",earthquake,9.09,5.896,0.166,10,reviewed,us,us
+2026-05-31T15:03:32.086Z,7.5739,91.812,10,4.5,mb,32,96,5.61,0.74,us,us7000spp6,2026-06-07T13:57:30.040Z,"Nicobar Islands, India region",earthquake,8.74,1.786,0.135,17,reviewed,us,us
+2026-05-31T09:12:10.425Z,-8.1709,119.5859,180.112,4.1,mb,22,103,1.905,0.67,us,us7000sqwi,2026-06-23T15:08:27.040Z,"47 km NNE of Komodo, Indonesia",earthquake,9.44,9.754,0.158,11,reviewed,us,us
+2026-05-31T08:01:54.679Z,6.2909,126.8256,8.806,4.2,mb,21,137,1.46,0.72,us,us7000sqwe,2026-06-06T06:52:52.040Z,"72 km E of Pondaguitan, Philippines",earthquake,8.35,4.659,0.132,16,reviewed,us,us
+2026-05-31T05:57:11.048Z,8.9178,126.5066,56.726,4.5,mb,44,115,2.053,0.86,us,us7000spmh,2026-06-06T06:06:30.040Z,"21 km E of Aras-asan, Philippines",earthquake,11.37,1.254,0.091,35,reviewed,us,us
+2026-05-31T03:13:25.170Z,4.0392,126.8207,54.065,4.3,mb,17,131,3.254,1.12,us,us7000sqw7,2026-06-11T02:48:07.040Z,"213 km SE of Sarangani, Philippines",earthquake,9.67,9.602,0.142,15,reviewed,us,us
+2026-05-30T21:20:38.167Z,6.2825,126.9984,10,4.3,mb,12,144,1.612,0.56,us,us7000sqn0,2026-06-16T01:12:00.040Z,"91 km E of Pondaguitan, Philippines",earthquake,10.08,1.933,0.177,9,reviewed,us,us
+2026-05-30T14:13:59.281Z,-8.4556,121.4403,188.262,4,mb,22,83,2.8,1.03,us,us7000sqml,2026-06-24T17:21:50.040Z,"49 km NNW of Ende, Indonesia",earthquake,8.48,7.028,0.149,14,reviewed,us,us
+2026-05-30T13:18:16.055Z,6.3567,126.9388,9.624,4.5,mb,55,87,1.525,0.54,us,us7000sqmj,2026-06-23T22:05:09.040Z,"84 km E of Pondaguitan, Philippines",earthquake,9.77,4.77,0.075,52,reviewed,us,us
+2026-05-30T13:15:12.317Z,6.1528,126.5793,27.216,4.6,mb,110,55,1.348,0.59,us,us7000spit,2026-06-23T21:34:27.040Z,"50 km ESE of Pondaguitan, Philippines",earthquake,8.15,4.583,0.055,103,reviewed,us,us
+2026-05-30T07:16:17.367Z,5.9429,127.352,10,4.4,mb,24,126,18.574,1.1,us,us7000sqn4,2026-06-23T14:49:34.040Z,"137 km ESE of Pondaguitan, Philippines",earthquake,15.09,1.916,0.12,20,reviewed,us,us
+2026-05-30T07:13:46.611Z,6.255,126.6809,51.983,4.4,mb,29,130,1.361,0.78,us,us7000sqm7,2026-06-23T14:33:28.040Z,"56 km ESE of Pondaguitan, Philippines",earthquake,12.7,7.84,0.112,23,reviewed,us,us
+2026-05-30T07:03:07.286Z,6.0453,126.6236,80.44,4.6,mb,34,125,1.453,0.9,us,us7000sqm6,2026-06-23T14:25:03.040Z,"60 km SE of Pondaguitan, Philippines",earthquake,12.45,7.216,0.105,27,reviewed,us,us
+2026-05-30T06:08:29.132Z,6.3114,126.8088,48.445,4.2,mb,29,108,1.435,0.73,us,us7000sqm3,2026-06-23T14:07:33.040Z,"70 km E of Pondaguitan, Philippines",earthquake,6.66,6.494,0.115,21,reviewed,us,us
+2026-05-30T05:48:13.661Z,6.1228,126.9009,10,4.5,mb,42,108,1.615,1.29,us,us7000sphm,2026-06-23T13:09:56.040Z,"84 km ESE of Pondaguitan, Philippines",earthquake,11.11,1.897,0.09,36,reviewed,us,us
+2026-05-30T05:15:53.879Z,1.8041,96.0707,10,4.4,mb,30,91,1.584,0.69,us,us7000sqm1,2026-06-23T09:52:36.040Z,"82 km SSW of Sinabang, Indonesia",earthquake,9.65,1.908,0.111,23,reviewed,us,us
+2026-05-29T19:54:25.069Z,1.5436,128.6666,17.093,4.6,mb,60,104,5.698,0.68,us,us7000spey,2026-06-23T19:16:32.040Z,"75 km ESE of Tobelo, Indonesia",earthquake,10.59,4.463,0.078,53,reviewed,us,us
+2026-05-29T19:26:42.084Z,-2.8352,102.3005,151.149,4.4,mb,26,131,4.849,1.36,us,us7000sql3,2026-06-23T19:00:27.040Z,"74 km NNW of Curup, Indonesia",earthquake,5.65,9.12,0.13,17,reviewed,us,us
+2026-05-29T14:34:43.579Z,-3.547,122.3534,10,4.9,mb,25,77,2.976,0.89,us,us7000spb8,2026-06-04T20:52:27.040Z,"50 km NNW of Kendari, Indonesia",earthquake,8.66,1.877,0.149,15,reviewed,us,us
+2026-05-29T10:04:04.774Z,0.9576,126.2507,63.683,4.6,mb,53,94,6.108,0.56,us,us7000sp8u,2026-06-24T16:02:45.040Z,"127 km W of Ternate, Indonesia",earthquake,10.72,7.512,0.08,47,reviewed,us,us
+2026-05-29T08:54:14.372Z,0.572,100.0173,166.399,4.4,mb,61,43,2.547,1,us,us7000sp8m,2026-06-05T09:01:10.040Z,"105 km NNW of Bukittinggi, Indonesia",earthquake,8.26,6.803,0.076,50,reviewed,us,us
+2026-05-29T01:10:59.511Z,2.083,96.8326,28.855,4.7,mb,76,71,1.072,0.6,us,us7000sp6y,2026-06-23T05:12:58.040Z,"66 km SE of Sinabang, Indonesia",earthquake,4.82,3.642,0.067,68,reviewed,us,us
+2026-05-28T20:59:12.357Z,-8.0169,109.101,83.392,4.6,mb,75,62,1.54,0.65,us,us7000sp6e,2026-06-16T16:54:41.040Z,"33 km SSE of Cilacap, Indonesia",earthquake,8.91,5.702,0.08,47,reviewed,us,us
+2026-05-28T17:11:41.558Z,-8.5921,128.0901,10,4.2,mb,15,111,3.947,1.02,us,us7000sqc3,2026-06-16T15:00:26.040Z,"120 km E of Lospalos, Timor Leste",earthquake,10.1,1.929,0.186,8,reviewed,us,us
+2026-05-28T12:35:40.755Z,-6.5444,131.9263,10,4.8,mb,55,40,2.843,0.86,us,us7000sp29,2026-06-17T08:14:21.040Z,"136 km SW of Tual, Indonesia",earthquake,7.36,1.875,0.084,44,reviewed,us,us
+2026-05-28T10:44:43.705Z,8.7897,126.3501,83.192,4.5,mb,58,114,1.872,0.97,us,us7000sp1u,2026-06-20T12:08:04.040Z,"6 km ESE of Marihatag, Philippines",earthquake,10.31,6.343,0.08,46,reviewed,us,us
+2026-05-28T08:33:42.349Z,1.1187,126.2255,35,4.3,mb,28,101,7.235,0.67,us,us7000sqbv,2026-06-24T11:47:18.040Z,"127 km ESE of Bitung, Indonesia",earthquake,8.76,1.876,0.126,18,reviewed,us,us
+2026-05-28T08:06:54.588Z,-7.3223,119.624,456.825,4.1,mb,21,97,2.296,0.82,us,us7000sp1c,2026-06-04T05:27:01.040Z,"133 km NNW of Labuan Bajo, Indonesia",earthquake,13.13,10.065,0.12,19,reviewed,us,us
+2026-05-28T01:46:18.882Z,-10.4911,124.3637,10,5.2,mb,126,34,0.737,0.73,us,us7000snzn,2026-06-18T04:18:21.040Z,"70 km S of Soe, Indonesia",earthquake,6.95,1.72,0.058,99,reviewed,us,us
+2026-05-27T06:24:16.882Z,0.4754,125.853,22.608,5,mb,95,26,6.405,1.12,us,us7000sntr,2026-06-15T13:19:05.117Z,"133 km SE of Bitung, Indonesia",earthquake,8.41,4.056,0.059,93,reviewed,us,us
+2026-05-27T03:22:55.704Z,1.2225,125.9748,35,4.2,mb,12,136,8.776,0.66,us,us7000sqac,2026-06-04T22:34:17.040Z,"97 km ESE of Bitung, Indonesia",earthquake,10.07,1.897,0.186,9,reviewed,us,us
+2026-05-26T19:49:04.669Z,4.1368,97.4662,10,4.4,mb,52,61,1.202,0.56,us,us7000snpl,2026-06-15T16:38:39.040Z,"66 km WSW of Langsa, Indonesia",earthquake,3.59,1.843,0.09,36,reviewed,us,us
+2026-05-26T13:22:06.036Z,-0.1501,134.6404,10,4.2,mb,11,148,3.644,0.78,us,us7000sq2u,2026-06-17T23:59:24.040Z,"101 km NE of Manokwari, Indonesia",earthquake,12.52,1.949,0.235,5,reviewed,us,us
+2026-05-26T11:11:05.648Z,1.8043,124.8735,269.072,4.4,mb,30,71,5.277,0.46,us,us6000t07v,2026-06-17T09:21:52.040Z,"35 km N of Manado, Indonesia",earthquake,10.27,10.543,0.12,20,reviewed,us,us
+2026-05-26T08:39:11.634Z,-8.9673,113.8104,35,4.9,mb,42,48,0.598,1.07,us,us6000t06t,2026-06-18T13:30:12.824Z,"73 km SSW of Gambiran Satu, Indonesia",earthquake,5.29,1.82,0.094,35,reviewed,us,us
+2026-05-26T01:35:37.209Z,-4.2372,126.1354,397.928,4.1,mb,29,50,5.787,0.58,us,us6000t05l,2026-06-15T02:24:53.040Z,"235 km WSW of Ambon, Indonesia",earthquake,11.06,8.961,0.14,14,reviewed,us,us
+2026-05-25T22:03:41.842Z,-3.9802,134.0413,10,4.9,mb,30,117,2.076,0.41,us,us6000t04u,2026-06-17T21:15:00.040Z,"176 km WSW of Nabire, Indonesia",earthquake,7.76,1.769,0.106,28,reviewed,us,us
+2026-05-25T20:39:20.530Z,1.0732,126.0686,30.978,5.6,mww,104,41,5.977,0.84,us,us6000t04f,2026-06-04T19:52:33.559Z,"112 km ESE of Bitung, Indonesia",earthquake,8.62,4.902,0.073,18,reviewed,us,us
+2026-05-25T16:48:12.753Z,-0.0787,134.5828,10,4.5,mb,29,89,3.661,1.01,us,us6000t03v,2026-06-01T21:49:52.040Z,"104 km NNE of Manokwari, Indonesia",earthquake,10.78,1.896,0.132,20,reviewed,us,us
+2026-05-25T10:23:57.153Z,-7.3403,128.6317,149.342,4.9,mb,98,22,3.072,1.01,us,us6000t019,2026-06-12T11:15:37.040Z,"222 km NE of Lospalos, Timor Leste",earthquake,6.46,5.426,0.054,162,reviewed,us,us
+2026-05-25T07:57:05.217Z,-10.5015,124.5394,10,4.9,mb,82,81,0.788,0.54,us,us6000t00w,2026-06-18T10:56:24.040Z,"76 km SSE of Soe, Indonesia",earthquake,5.78,1.842,0.068,69,reviewed,us,us
+2026-05-25T06:19:25.540Z,-10.4735,124.619,10,4.6,mb,29,87,0.793,0.45,us,us6000t00p,2026-06-18T08:19:54.040Z,"77 km SSE of Soe, Indonesia",earthquake,5.79,1.251,0.119,21,reviewed,us,us
+2026-05-25T03:11:36.793Z,5.3333,126.3596,115.083,4,mb,17,123,1.891,0.55,us,us7000spva,2026-06-15T01:25:39.040Z,"99 km E of Sarangani, Philippines",earthquake,13.16,10.768,0.139,14,reviewed,us,us
+2026-05-25T02:32:38.451Z,8.038,126.9262,35,4.9,mb,61,94,1.646,1.04,us,us6000szzw,2026-06-12T05:06:33.305Z,"53 km E of Santa Maria, Philippines",earthquake,7.74,1.87,0.049,133,reviewed,us,us
+2026-05-24T16:48:41.017Z,9.2997,126.2839,34,5.5,mww,100,57,2.323,1,us,us6000szxz,2026-05-30T20:04:27.736Z,"10 km ENE of Cortes, Philippines",earthquake,6.77,1.639,0.052,36,reviewed,us,us
+2026-05-24T15:33:13.667Z,1.0225,126.0429,49.166,4.9,mb,58,66,6.025,0.78,us,us6000szxs,2026-05-30T19:29:35.040Z,"111 km ESE of Bitung, Indonesia",earthquake,9.16,6.821,0.054,111,reviewed,us,us
+2026-05-24T13:19:05.760Z,9.1379,126.5217,53.181,5.1,mb,82,69,2.257,0.98,us,us6000szxh,2026-05-30T18:52:24.699Z,"33 km ENE of La Paz, Philippines",earthquake,9.16,4.67,0.043,173,reviewed,us,us
+2026-05-24T09:27:48.771Z,-9.2762,123.9047,104.781,4.5,mb,16,181,0.595,0.93,us,us7000spck,2026-06-16T14:16:45.040Z,"38 km NNE of Naisano Dua, Indonesia",earthquake,9.51,5.995,0.18,9,reviewed,us,us
+2026-05-24T08:24:15.305Z,9.1382,126.5366,9.887,4.6,mb,31,115,2.263,1.14,us,us7000spci,2026-05-31T09:30:18.040Z,"34 km ENE of La Paz, Philippines",earthquake,13.75,4.438,0.114,23,reviewed,us,us
+2026-05-24T06:01:25.110Z,-6.3105,130.1581,152.132,4.5,mb,13,142,1.794,1.19,us,us6000szvr,2026-05-31T08:55:45.040Z,"296 km WSW of Tual, Indonesia",earthquake,14.81,9.607,0.171,10,reviewed,us,us
+2026-05-23T18:08:19.398Z,-5.1227,102.626,39.44,4.2,mb,25,147,3.023,0.73,us,us6000szs3,2026-05-31T14:12:14.040Z,"139 km SSW of Pagar Alam, Indonesia",earthquake,9.91,5.281,0.137,15,reviewed,us,us
+2026-05-23T14:11:16.030Z,1.5741,127.3497,141.482,4.8,mb,100,68,5.737,0.53,us,us6000szqs,2026-06-17T16:46:35.040Z,"75 km WSW of Tobelo, Indonesia",earthquake,9.42,7.006,0.052,114,reviewed,us,us
+2026-05-23T12:40:28.190Z,-4.5338,102.7044,68.472,5.3,mb,87,61,2.567,0.73,us,us6000szq3,2026-05-31T08:32:08.040Z,"82 km SW of Pagar Alam, Indonesia",earthquake,8.63,6.642,0.051,128,reviewed,us,us
+2026-05-23T08:39:59.391Z,-9.3371,110.5978,62.898,4.3,mb,19,176,2.278,0.41,us,us7000spbi,2026-06-16T13:25:01.040Z,"151 km S of Wonosari, Indonesia",earthquake,9.28,8.231,0.148,13,reviewed,us,us
+2026-05-23T07:41:30.719Z,-3.5352,139.8061,83.438,4,mb,16,87,1.353,1.38,us,us7000spc8,2026-06-16T13:47:03.040Z,"138 km SW of Abepura, Indonesia",earthquake,7.45,8.777,0.134,15,reviewed,us,us
+2026-05-23T02:52:48.031Z,1.0535,126.2215,32.48,4.3,mb,19,133,8.837,1.1,us,us7000spba,2026-06-02T23:29:48.040Z,"128 km ESE of Bitung, Indonesia",earthquake,11.44,6.489,0.148,13,reviewed,us,us
+2026-05-22T07:07:46.496Z,6.3077,124.0647,526.843,4,mb,46,89,1.684,0.93,us,us6000szge,2026-05-30T10:39:42.040Z,"15 km S of Sangay, Philippines",earthquake,13.28,9.613,0.089,34,reviewed,us,us
+2026-05-22T03:29:35.361Z,3.3458,128.2276,95.106,4.3,mb,30,119,4.543,0.74,us,us7000sp9s,2026-06-13T23:07:20.040Z,"180 km N of Tobelo, Indonesia",earthquake,10.32,8.063,0.111,23,reviewed,us,us
+2026-05-22T01:05:08.626Z,1.0085,126.0066,35,5.9,mww,246,24,6.036,0.58,us,us6000szdy,2026-06-11T00:16:47.675Z,"108 km ESE of Bitung, Indonesia",earthquake,8,1.795,0.075,17,reviewed,us,us
